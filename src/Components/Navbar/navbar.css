@@ -1,0 +1,10 @@
+nav{
+  background-color: #E8DBB3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lista{
+  display: flex;
+}

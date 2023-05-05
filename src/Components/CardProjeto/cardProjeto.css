@@ -1,0 +1,10 @@
+.Emprestimos{
+  border-radius: 20px;
+  width: 31.5%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #E8DBB3;
+  margin: 0 1em 1em 1em;
+}

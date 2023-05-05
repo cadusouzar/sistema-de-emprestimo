@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João",
+      "senha": 12345678
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "senha": 12345678
+    },
+    {
+      "id": 3,
+      "nome": "Antonio",
+      "senha": 12345678
+    },
+    {
+      "id": 4,
+      "nome": "José",
+      "senha": 12345678
+    }
+    
+  ],
+  "emprestimosFeitos": []
+}

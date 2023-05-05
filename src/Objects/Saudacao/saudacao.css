@@ -1,0 +1,27 @@
+.container_saudacao{
+  min-height: 50em;
+}
+
+.container_saudacao span{
+  margin-left: .3em;
+  background-color: #E8DBB3;
+  padding: .2em;
+  border-radius: .4em;
+}
+
+.container_saudacao h1, p{
+  color: #666435;
+} 
+.container_saudacao h1{
+  font-size: 35px;
+}
+.container_saudacao p{
+  font-size: 22px;
+}
+
+.container_saudacao img{
+  margin-top: 2em;
+  width: 400px;
+  height: 400px;
+}
+
